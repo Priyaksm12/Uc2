@@ -16,5 +16,5 @@ public class GamblingUc2 {
                 remaining_amount = remaining_amount - BET_AMT;
             System.out.println("After loosing bet" + remaining_amount);
         }
-    }
+}
 
